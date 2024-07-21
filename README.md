@@ -9,5 +9,8 @@ The Evergreen project is based around a Discord Text-Based Horror Bot. Players w
 - [x] Create an storyline draft.
 - [x] Include choice options for the story.
 - [x] Run the code to see if the base details work.
+- [x] play command to start the prologue.
+- [x] next command to track story progression.
+- [x] Add steps and user choices in the prologue.
 - [ ] Continue to expand and include more choices.
 - [ ] Include a welcome screen, implement more commands for replayability.
